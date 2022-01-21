@@ -18,3 +18,5 @@ jobs:
               cd krishnagajjala.github.io
               git pull
               cp ./* ../../pub/ -f
+              cd ../../pub
+              yes
